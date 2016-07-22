@@ -6,3 +6,4 @@ Steps to run:-
    
     Usuage: ./rearrange_csv_file_column  csv_file_name   no_of_columns new_sequence_of_columns
     example : ./rearrange_csv_file_column  csv_file_name      5      "0 1 2 3 4 "  
+3. Output :- output.csv file will generate with changes.   
