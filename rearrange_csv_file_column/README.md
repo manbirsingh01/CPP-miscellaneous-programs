@@ -1,0 +1,8 @@
+CPP file is used to rearrange the csv file columns
+
+Steps to run:-
+1. To Compile :- g++ rearrange_csv_file_column.cpp -o rearrange_csv_file_column
+2. To run :-  ./rearrange_csv_file_column
+   
+    Usuage: ./rearrange_csv_file_column  csv_file_name   no_of_columns new_sequence_of_columns
+    example : ./rearrange_csv_file_column  csv_file_name      5      "0 1 2 3 4 "  
