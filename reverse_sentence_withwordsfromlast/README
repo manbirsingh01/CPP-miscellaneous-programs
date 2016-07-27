@@ -1,0 +1,7 @@
+CPP file is used to reverse the string(sentence) with words from the last.
+
+Steps to run:-
+1. To Compile :- g++ reverse_sentence_with_word.cpp -o reverse_sentence_with_word
+2. To run :-  ./reverse_sentence_with_word "this program is to reverse the word from last"
+   
+    Usuage: ./reverse_sentence_with_word  <string(sentence)> 
